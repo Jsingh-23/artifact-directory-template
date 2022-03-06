@@ -1,7 +1,7 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
+    "this-repository": "https://github.com/Jsingh-23/artifact-directory-template.git",
+    "project-repository": "https://github.com/a2lu/CAPSTONE_WILDFIRE.git",
     "dockerhub-repository": "amfraenkel/fair-policing-project:latest",
-    "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
+    "project-website-url": "https://cashcountinchi.github.io/b12_capstone/",
     "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
 }
