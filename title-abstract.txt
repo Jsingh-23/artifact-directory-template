@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Supervised Classification Approach to Wildfire Mapping in Northern California
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Fire severity maps are an important tool for understanding fire damage and managing forest recovery. They are mainly produced by several federal fire mapping groups: MTBS, RAVG, and BAER. We have identified several key issues with the completeness, consistency, and efficiency of their mapping methods that reduce the effectiveness of their burn severity maps. In order to address these issues, we propose the use of machine learning in conjunction with remote sensing data as an alternative to traditional methods of producing severity maps, which rely on in-situ data and spectral indices derived from image algebra. Several supervised classifiers will be trained on sample data collected from 17 wildfires across Northern California and their performances will be evaluated to judge their accuracy at mapping fire severity.
