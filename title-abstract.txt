@@ -2,4 +2,6 @@ Title:
 Supervised Classification Approach to Wildfire Mapping in Northern California
 
 Abstract:
-Burn severity maps are an important tool for understanding fire damage and managing forest recovery. We have identified several issues with current mapping methods used by federal agencies that affect the completeness, consistency, and efficiency of their burn severity maps. In order to address these issues, we demonstrate the use of machine learning as an alternative to traditional methods of producing severity maps, which rely on in-situ data and spectral indices derived from image algebra. We have trained several supervised classifiers on sample data collected from 17 wildfires across Northern California and evaluate their performance at mapping fire severity.
+Burn severity maps are an important tool for understanding fire damage and managing forest recovery. We have identified several issues with current mapping methods used by federal agencies that affect the completeness, consistency, and efficiency of their burn severity maps. 
+In order to address these issues, we demonstrate the use of machine learning as an alternative to traditional methods of producing severity maps, which rely on in-situ data and spectral indices derived from image algebra. 
+We have trained several supervised classifiers on sample data collected from 17 wildfires across Northern California and evaluate their performance at mapping fire severity.
